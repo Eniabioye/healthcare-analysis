@@ -2,6 +2,11 @@
 
 ## Treatment Distribution and Medical Conditions
 
+### Visualization
+
+<img width="1125" alt="Screenshot 2025-01-29 at 8 13 14 PM" src="https://github.com/user-attachments/assets/663f6341-6159-465e-90a0-59553b6503e0" />
+
+
 ### Primary Findings
 A critical discovery from our analysis reveals that hypertension and diabetes demonstrate the highest admission counts across all medical conditions. This finding carries significant implications for public health strategies and resource allocation.
 
